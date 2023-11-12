@@ -5,7 +5,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RMBRAFAEL)
 <a href = "rmbrafaelramon@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-![Snake animation](https://github.com/RMBRAFAEL/RMBRAFAEL/blob/output/github-contribution-grid-snake.svg)
 
 
 
